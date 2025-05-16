@@ -1,0 +1,437 @@
+ls
+cd repogit
+cd ..
+ssh-keygen -t ed25519
+ls -i .ssh
+sudo systemct1 status sshd
+sudo systemctl status sshd
+vagrant halt
+cd ..
+vagrant halt
+vagrant up
+cd ..
+vagrant halt
+ls
+cd ..
+vagrant shh
+apt install vagrant
+ls
+ssh-keygen -t ed25519
+ls -l .ssh/
+sudo systemctl status sshd
+ls -l ssh/
+ssh-keygen -t ed25519
+ls -l .ssh/
+cat .shh/id_ed25519.pu
+git clone git@github.com:upszot/UTN-FRA_SO_Vagrant.git
+cd vagrant_repo
+ls
+cd vmvagrant_repo
+cd cmvagrant_repo
+cd vmvagrant_repo
+git clone git@github.com:Lea-2005/vmvagrant_repo.git
+cd vmvagrant_repo
+ls
+history > historial.txt
+ls
+git status
+git add .
+git status
+git commit -m "commit clase2"
+git push
+git commit
+cd vmvagrant_repo
+git status
+git commit
+git config --global user.email "lm30.mamaniabc@gmail.com"
+git config --global user.name "Lea-2005"
+git commit
+cd vmvagrant_repo
+git status
+git commit
+cd vmvagrant_repo
+git commit -m "commit clase2"
+git push
+cd ..
+ls
+cat << FIN > texto.txt
+linea 1
+linea 2
+linea 3
+FIN
+
+cat texto.txt
+bc <<< 1+2
+history > historial.txt
+cat historial.txt
+cat texto.txt | head -n2
+cat texto.txt | head -n2 | grep -n 1
+cat texto.txt | head -n2 | grep -n linea
+grep -i proce /proc/cpuinfo
+grep -i proce /proc/cpuinfo | grep -i proce
+cat /proc/cpuinfo | grep -i proce
+cat /proc/cpuinfo | grep -i proce | head -n 1
+history > historial.txt
+cat historial.txt
+vagrant halt
+cd ..
+vagrant halt
+ls
+pwd
+echo hola
+echo buen día
+echo $HOME
+ls -l
+cat -help
+cat --help
+cat filename.txt | more
+cat > filename.txt
+cat filename.txt | more
+cat >archivo1.txt
+cat archivo.1txt
+cat archivo1.txt
+ls
+document
+v __help
+vagrant --help
+mkdir Clase4
+ls -l
+cd Clase4
+cat > texto1.txt
+ls -l
+cat texto1.txt 
+cat << FIN > texto2.txt
+Linea 4
+Linea 5
+Linea 6
+FIN
+
+cat texto1txt >> texto2.txt
+cat texto1.txt >> texto2.txt
+cat texto1.txt
+cat texto2.txt
+ls -l
+cat << EOF > texto3.txt
+linea 7
+linea 8
+linea 9
+linea 10
+EOF
+
+cat texto3.txt
+cat texto1.txt texto3.txt > texto4.txt
+ls-l
+ls -l
+cat texto4.txt
+echo HOLAAAAAAAA
+echo HOLAAAAAAAA > saludo.txt
+ls -l
+cat saludo.txt
+echo CHAUUUUUUUUUUUUUUUUUUUUU >> saludo.txt
+cat saludo.txt
+grep -n texto texto4.txt
+grep -n linea texto4.txt
+grep -i linea texto4.txt
+grep -c linea texto4.txt
+grep -v Linea texto4.txt
+greo 5 texto4.txt
+grep 5 texto4.txt
+cd .
+cd ..
+pmd
+pnd
+pwd
+tree
+apt  install tree
+sudo apt  install tree
+sudo snap  install tree
+tree
+pwd
+cd Clase4
+pwd
+touch texto5.txt
+ls -l
+cp texto2.txt textoCP.txt
+ls -l
+cat textoCP.txt
+mv textoCP.txt textoCOPY2.txt
+ls -l
+mv textoCOPY2.txt /home/vagrant
+ls-l
+ls -l
+ls -l /home/vagrant
+cd ..
+rm Clase4/
+rm -r Clase4/
+ls -l
+id
+whoami
+w
+last
+pwd
+mkdir -p nuevo_dir_1 nuevo_dir_2 nuevo_dir_3
+ls- l
+ls -l
+pwd
+tree
+ls -l
+mkdir CLASE4
+dc CLASE4
+cd CLASE4
+mkdir -p facturas pedidos
+swd
+ls -l
+rm facturas
+rm facturas /CLASE4
+mkdir facturas, pedidos
+mkdir -p {Facturas, Pedidos}
+ls -l
+tree
+cd ..
+rm -r Pedidos}
+rm -r CLASE4/
+ls -l
+rm nuevo_dir_1
+rm -r nuevo_dir_1/
+ls -l
+rm -r nuevo_dir_2/
+rm -r nuevo_dir_3/
+ls -l
+mkdir CLASE_4
+cd CLASE_4
+mkdir facturas,pedidos
+ls -l
+tree
+rm -r facturas,pedidos/
+ls -l
+mkdir -p facturas,pedidos
+tree
+rm -r facturas,pedidos/
+mkdir -p {clientes/facturas, pedidos}
+tree
+rm -r {clientes/facturas, pedidos}/
+mkdir -p {compra/vendedor{1..3},compra2/vendedor{1..3},repositor}}
+tree
+rm -r {compra/vendedor{1..3},compra2/vendedor{1..3},repositor}}/
+tree
+rm -r {clientes/facturas, pedidos}/
+ls -l
+rm -r compra/
+rm -r compra2/
+rm -r {Clientes/
+rm -r tree
+ls -l
+rm -r {clientes/facturas, pedidos}/
+mkdir -p {compra1/vendedor{1..3},compra2/{vendedor{1..3},repositor}}
+tree
+mkdir -p {clientes}/{facturas,pedidos}
+tree
+cd ..
+rm -r CLASE_4/
+mkdir clase4
+cd clase4
+cat /etc/passwd
+cat /etc/group
+cat /etc/shadow
+sudo cat /etc/shadow
+sudo groupadd alumnos  
+rm -r {clientes/facturas, pedidos}/
+cat /etc/gro
+cat /etc/group
+useradd -m -s /bin/bash -c "Alumno Leandro" -G Alumnos Leandro
+useradd -m -s /bin/bash -c "Alumno Leandro" -G Alumnos
+useradd -m -s /bin/bash -c "Alumno Leandro" -G alumnos
+sudo useradd -m -s /bin/bash -c "Alumno Leandro" -G alumnos Leandro
+mkdir -p {Facturas, Pedidos}
+cat /etc/group
+cat /etc/passwd
+sudo passwd Leandro 
+passwd pepepapappop1p1p1p1p1p1p1p1p1p1ppp1pp11pp1ppp1p11p1p1p1p1p........................okkbg0dsjg0isi09hi...
+tu
+exit
+ls -l
+mkdir clase 5
+ls -l
+mkdir clase5
+rm 5
+rm 5/
+rmdir 5/
+rmdir clase/
+ls -l
+cd clase5
+echo holaaa
+echo holiwis > clase5
+cat clase5
+ls -l
+chmod 666 clase5
+ls -l
+chmod 762 clase5
+ls -l
+echo chau > texto2.txt
+ls -l
+cat texto2.txt
+cat clase5
+chmod 644 texto2.txt
+ls -l
+cd ..
+ls -l
+chmor -r 777 clase5/
+chmor -R 777 clase5/
+chmod -R 777 clase5/
+ls l
+ls -l
+cd clase5
+ls -l
+rm -r clase5
+ld -l
+ls -l
+cd ..
+ls -l
+rm -r clase5
+ls -l
+mkdir clase5
+cd clase5
+echo "linea1" > practica1.txt
+echo "linea1" > practica2.txt
+ls -l
+chmod 600 texto1.txt
+chmod 600 practica1.txt
+chmod 444 practica2.txt
+ls -l
+echo "linea2" >> practica2.txt
+sudo echo "linea2" >> practica2.txt
+ls -l
+chmod 644 practica2.txt
+echo "linea2" >> practica2.txt
+cat practica2.txt
+cd ..
+chmod -R 777 clase5/
+ls -l
+chmod 666 clase5/*
+ls -l
+cd clase5
+ls -l
+echo mi primer script
+cat << FIN >> script
+mi primer script
+funciono ok
+de nuevo
+v:
+FIN
+
+ls -l
+cat script
+bash script
+bash sudo script
+sudo bash script
+bash script
+vin script2.sh
+vim script2.sh
+cat script2.sh
+chmod 764 script2.sh
+ls -l
+./script2.sh
+cd ..
+pwd
+ssh-keygen -t ed25519
+cat $HOME/.ssh/*.pub
+ls -la
+ls -la .ssh/
+cat .ssh/id_ed25519.pub
+cd
+mkdir repogit
+ls
+cd repogit
+ls -l
+cat repogit
+cd ..
+cd
+mkdir repogit
+mrdir -R repogit/
+rmdir -R repogit/
+rmdir repogit
+rm -r repogit
+ls -l
+ls -la repogit/
+ls repogit/
+ls UTN-FRA_SO_onBording
+cat UTN-FRA_SO_onBording
+cd repogit
+pwd
+ls -l
+git clone git@github.com:Lea-2005/TP_AySO_Mamani_Leandro.git
+ls -l
+cat README.md
+ls -l
+cd TP_AySO_Mamani_Leandro/
+man grep
+grep -i Home_url /etc/os-release
+grep -i Home_url /etc/os-release > datos_url.txt
+ls -l
+git status
+git add .
+git status
+git commit -m "Subo el archivo: datos_url.txt"
+whoami
+git status
+git push
+echo “Usuario=$(vagrant)” > datos_usuario.txt
+echo “Usuario=$(whoami)” > datos_usuario.txt
+ls -l
+ls -l datos_usuario.txt
+cat datos_usuario.txt
+git add .
+git status
+ls -l
+cpuinfo
+cpu-info
+apt install cpuinfo
+sudo apt install cpuinfo
+ls -l
+cpuinfo
+cpu-info
+grep "model name" /proc/cpuinfo | head -n1 >>
+datos_usuarios.txt
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuarios.txt
+ls -l
+rm -r datos_usuarios.txt
+ls -l
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+ls -l
+cat datos_usuario.txt
+git status
+git add .
+git status
+git commit -m "“feat: Añadiendo información de CPU”"
+git status
+git push
+git status
+cat << FIN >> README.md
+Alumno: Mamani Leandro
+División: 114
+Turno: mañana
+FIN
+
+ls -l
+ls -l README.md
+cat README.md
+git status
+git add .
+git push
+git status
+git add README.md datos_usuarios.txt
+git add README.md datos_usuario.txt
+ls -l
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+mkdir -p {material1,material2}/uni{1..3}
+ls -l
+tree
+vim script_dir.sh
+ls -l
+ls -l script_dir.sh
+cat script_dir.sh
+git add .
+git commit -m "ADD: Añadiendo script"
+git push
+history -a
